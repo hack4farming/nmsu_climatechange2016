@@ -6,6 +6,8 @@
 
 Projects and resources related to the climate changed-themed data jam cohosted by NMSU and [aWhere](http://www.awhere.com/).
 
+For useful resources for this data jam, including climate change datasets and API information, please visit [aWhere's Resources Kit](http://developer.awhere.com/hack4farming).
+
 ##Accessing aWhere's Data
 
 ###Developers
